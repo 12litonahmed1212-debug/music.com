@@ -1,0 +1,14 @@
+@media only screen and (max-width:810px) {
+    .containert{
+        width: 130%;
+    }
+    .footer{
+        width: 80%;
+        margin-left: -30px;
+        padding: 20px;
+     } 
+    }
+@media only screen and (max-width:375px){
+    
+    
+}
